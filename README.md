@@ -3,7 +3,7 @@ This repository is an official implementation of the paper:
 
 **Multi-Domain Raw-Reversal for Single-Image HDR Reconstruction**
 
-![Head](\img\Head.png)
+![Head](./img/Head.png)
 
 
 
