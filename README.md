@@ -99,20 +99,20 @@ This repository is an official implementation of the paper:
 
 - In HDR-Eye datasets:
 
-![HDR-Eye](\img\HDR-Eye.png)
+![HDR-Eye](./img/HDR-Eye.png)
 
 - In HDR-Real datasets:
 
-![HDR-Real](\img\HDR-Real.png)
+![HDR-Real](./img/HDR-Real.png)
 
 - In HDR-Synth datasets:
 
-![HDR-Synth](\img\HDR-Synth.png)
+![HDR-Synth](./img/HDR-Synth.png)
 
 - In Raise datasets:
 
-![Raise](\img\Raise.png)
+![Raise](./img/Raise.png)
 
 - In SI-HDR datasets:
 
-![SI-HDR](\img\SI-HDR.png)
+![SI-HDR](./img/SI-HDR.png)
