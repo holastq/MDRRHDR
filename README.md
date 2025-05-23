@@ -3,7 +3,7 @@ This repository is an official implementation of the paper:
 
 **Multi-Domain Raw-Reversal for Single-Image HDR Reconstruction**
 
-![Head](C:\Users\37854\Desktop\MDRRHDR\img\Head.png)
+![Head](\img\Head.png)
 
 
 
@@ -99,20 +99,20 @@ This repository is an official implementation of the paper:
 
 - In HDR-Eye datasets:
 
-![HDR-Eye](C:\Users\37854\Desktop\MDRRHDR\img\HDR-Eye.png)
+![HDR-Eye](\img\HDR-Eye.png)
 
 - In HDR-Real datasets:
 
-![HDR-Real](C:\Users\37854\Desktop\MDRRHDR\img\HDR-Real.png)
+![HDR-Real](\img\HDR-Real.png)
 
 - In HDR-Synth datasets:
 
-![HDR-Synth](C:\Users\37854\Desktop\MDRRHDR\img\HDR-Synth.png)
+![HDR-Synth](\img\HDR-Synth.png)
 
 - In Raise datasets:
 
-![Raise](C:\Users\37854\Desktop\MDRRHDR\img\Raise.png)
+![Raise](\img\Raise.png)
 
 - In SI-HDR datasets:
 
-![SI-HDR](C:\Users\37854\Desktop\MDRRHDR\img\SI-HDR.png)
+![SI-HDR](\img\SI-HDR.png)
