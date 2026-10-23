@@ -91,7 +91,7 @@ This repository is an official implementation of the paper:
   python metric,py -generate your_generate_hdr/ -gt your_gt_hdr/
   ```
 
-- Use the [PU21](https://github.com/gfxdisp/pu21/tree/main) for PSNR,  VSI and [HDR-VDP](https://hdrvdp.sourceforge.net/wiki/) for HDR-VDP-3.
+- Use the [PU21](https://github.com/gfxdisp/pu21/tree/main) for VSI and [HDR-VDP](https://hdrvdp.sourceforge.net/wiki/) for HDR-VDP-3.
 
 
 
